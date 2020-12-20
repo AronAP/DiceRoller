@@ -1,0 +1,3 @@
+# DiceRoller
+
+![Preview](preview.gif)
