@@ -48,7 +48,6 @@ private fun countUp() {
 private fun resetVal() {
     val resultText: TextView = findViewById(R.id.result_text)
 
-
     if (resultText.text.matches("-?\\d+(\\.\\d+)?".toRegex())) {
         resultText.text = "0"
     } else {
